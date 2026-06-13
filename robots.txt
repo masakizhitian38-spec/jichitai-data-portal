@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://masakizhitian38-spec.github.io/jichitai-data-portal/sitemap.xml
